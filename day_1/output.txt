@@ -1,0 +1,2 @@
+Sum distance = 1889772
+Similarity score = 23228917
